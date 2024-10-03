@@ -1,0 +1,7 @@
+echo "# Don-s-House" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bcol22/Don-s-House.git
+git push -u origin main
